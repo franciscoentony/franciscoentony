@@ -1,3 +1,7 @@
+<img width="3780" height="1890" alt="Image" src="https://github.com/user-attachments/assets/5fe00d87-2f59-4d80-a619-32984742a4e3" />
+
+
+
 ## Hello World! 🌎 - Eu sou Entony👨🏻‍💻
 <i>"Aprender é uma jornada sem fim; evoluir é o destino"</i>
 - 🌱 Desenvolvedor Front-End...
