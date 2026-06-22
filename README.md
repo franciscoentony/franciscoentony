@@ -4,8 +4,8 @@
 
 ## Hello World! 🌎 - Eu sou Entony👨🏻‍💻
 <i>"Aprender é uma jornada sem fim; evoluir é o destino"</i>
-- 🌱 Desenvolvedor de Software...
-- 👯 Colaborador de projetos do IFRN...
+- 🌱 Engenheiro de Software FullStack...
+- 👯 Pesquisador no Núcleo de Inovação em Computação...
 - 🔭 Graduando em Tecnologia em Sistema para Internet - IFRN...
 
 ##
@@ -14,11 +14,16 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Entony-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Entony-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Entony-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Entony-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Entony-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Entony-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Entony-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Entony-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />        
+  <img align="center" alt="Entony-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Entony-bun" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" />
+  <img align="center" alt="Entony-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+  <img align="center" alt="Entony-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+  <img align="center" alt="Entony-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+          
 </div>
 
 
